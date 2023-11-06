@@ -10,4 +10,4 @@ project.
 https://github.com/basimalii/Cant-Stop/assets/113080842/c32a7189-5abf-4c4c-bf8b-12c66cf16c1b
 
 ## Screenhot
-[![Screenshot](https://github.com/basimalii/Cant-Stop/assets/113080842/1d371a34-94f9-4b67-84ff-fca73e842abd)]
+![Screenshot](https://github.com/basimalii/Cant-Stop/assets/113080842/1d371a34-94f9-4b67-84ff-fca73e842abd)
